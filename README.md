@@ -5,9 +5,9 @@ Peer assignment for Developing Data Products Course.
 
 Content of the repo:  
 
-1. README.md - help file for the project   
-2. ui.R - user interface file    
-3. server.R - server program file      
+1. README.md: help file for the project   
+2. ui.R: user interface file    
+3. server.R: server application file      
  
 Description of the Shiny Project
 =================================
@@ -20,6 +20,12 @@ Press Submit. The program automatically computes:
 
 1. Monthly payment
 2. Yearly payment
+
+Application
+===========
+
+URL: https://josmaf.shinyapps.io/mortgageCalculator/
+
 
 References: 
 - Wikipedia: http://en.wikipedia.org/wiki/Mortgage_calculator
